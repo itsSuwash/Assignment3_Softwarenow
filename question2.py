@@ -1,6 +1,5 @@
 
-# githublink https://github.com/itsSuwash/Assignment3_Softwarenow
-
+# githublink https://github.com/itsSuwash/Assignment3_Softwarenow/blob/main/question2.py
 import pygame
 pygame.init()
 
