@@ -1,6 +1,6 @@
 
 
-# githublink    https://github.com/itsSuwash/Assignment3_Softwarenow
+# githublink    https://github.com/itsSuwash/Assignment3_Softwarenow/blob/main/question1.py
 
 import tkinter as tk
 
